@@ -21,9 +21,27 @@ let booleanNumber = Boolean(booleanValue)
 
 let emptyString=""
 let stringBoolean = Boolean(emptyString)
-console.log(stringBoolean)
+// console.log(stringBoolean)
 // empty string is false where as string value will be true
 
 let number=33
 let numberString=String(number)
-console.log(numberString)
+// console.log(numberString)
+
+// ****************OPERATIONS**********************
+let value=3
+negValue=-value
+// console.log(negValue)
+
+// console.log(2+2);
+// console.log(2-2);
+// console.log(2/2);
+// console.log(2%2);
+// console.log(2**2);
+
+// console.log("1"+2);
+// console.log(1+"2");
+// console.log(1+1+"2");  //if numeric value is first then it will perform any arithematic operation
+// console.log("1"+1+2);  //if string is first then every other number will be treated as string
+
+console.log(undefined>=0)
