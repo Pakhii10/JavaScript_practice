@@ -8,7 +8,7 @@ let state=null //null
 let state1;//undefined
 //symbol used in reat components 
 //object examples
-sd
+
 console.log(typeof "Pakhi")
 console.log(typeof state)
 console.log(typeof state1)
